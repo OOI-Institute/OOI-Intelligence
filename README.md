@@ -16,8 +16,6 @@
 - [Design Commitments](#design-commitments)
 - [Governance and Human Role](#governance-and-human-role)
 - [Who This Is For](#who-this-is-for)
-- [Contributing and License](#contributing-and-license)
-- [Status and Roadmap](#status-and-roadmap)
 - [Contact](#contact)
 
 ---
@@ -134,20 +132,6 @@ OOI is intended for:
 
 - **No contributions accepted for this document.** This README and canonical mission documents are published as the authoritative, read-only representation of OOI's framing.
 - **Partnerships or formal proposals:** contact [OscieIntel@outlook.com](mailto:OscieIntel@outlook.com).
-
----
-
-## Status and Roadmap
-
-**Current status:** Active, evolving infrastructure mission. Some layers are architectural; some are operational; some are in domain pilot deployments.
-
-**Near-term priorities:**
-
-- [ ] Formalize shell API contracts and test harnesses
-- [ ] Publish domain reference build for clinical continuity (SafeMed prototype)
-- [ ] Publish governance charter and safety review process
-- [ ] Expand example integrations for energy and mobility pilots
-
 ---
 
 ## Contact
@@ -163,12 +147,3 @@ For deeper architectural insight, partnership inquiries, or formal collaboration
 OOI is a long-arc infrastructure project: an architecture for preserving coherence, strengthening human judgment, and stabilizing complex systems across domains. This document is published openly to support stewardship, transparency, and responsible engagement with the architecture.
 
 ---
-
-**Quick links (conceptual):**
-
-- Architecture overview: [`/architecture/README.md`](/architecture/README.md)
-- Shell specs: [`/shells/README.md`](/shells/README.md)
-- Domain builds: [`/domains/README.md`](/domains/README.md)
-- Security: [`SECURITY.md`](/SECURITY.md)
-- Roadmap: [`ROADMAP.md`](/ROADMAP.md)
-
