@@ -32,8 +32,6 @@ OOI (Operational Oscillatoric Institution) is an infrastructure-first architectu
 
 ## Quick Start
 
-- **Purpose:** This document is the canonical, read-only description of OOI's mission, architecture, shells, governance posture, and domain reference approach.
-
 **If you are new:**
 
 1. Read [Architecture Summary](#architecture-summary) to understand the layered approach.
@@ -44,16 +42,7 @@ OOI (Operational Oscillatoric Institution) is an infrastructure-first architectu
 
 ## What Is in This Repository
 
-This repository contains the canonical documentation for the OOI architecture and mission. It is intentionally focused on conceptual and governance artifacts rather than accepting public contributions.
-
-**Typical contents (conceptual):**
-
-- Mission and framing
-- Shell definitions and descriptions
-- Architecture notes and the physics spine
-- Domain reference builds (examples and constraints)
-- Governance artifacts (safety checklists, review templates, charters)
-- Roadmap and status
+This repository contains the canonical documentation for the OOI architecture and mission.
 
 ---
 
