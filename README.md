@@ -1,6 +1,6 @@
 # OOI — Operational Oscillatoric Institution
 
-**Sustainable Intelligence Architecture & Critical Sector Stability**
+**Intelligence Architecture & Complexity Stabilization**
 
 ---
 
@@ -54,6 +54,7 @@ This repository contains the canonical documentation for the OOI architecture an
 | File | Description |
 |------|-------------|
 | **README.md** | High‑level framing of OOI as an institutional, sustainable intelligence architecture. |
+| **OOI.md** | Constitutional and architectural definition of the Operational Oscillatoric Institution. |
 | **Execution‑Intelligence.md** | The operational model for execution‑grade intelligence: state modeling, constraint fidelity, simulation, selection, governance, and learning. |
 
 ### Relationship Between Documents
@@ -138,7 +139,7 @@ OOI is intended for:
 
 ## Contributing and License
 
-- **No contributions accepted** This README and canonical mission documents are published as the authoritative, read‑only representation of OOI's framing.  
+- **No contributions accepted for this document.** This README and canonical mission documents are published as the authoritative, read‑only representation of OOI's framing.  
 - **Partnerships or formal proposals:** contact [OscieIntel@outlook.com](mailto:OscieIntel@outlook.com).  
 
 ---
@@ -154,3 +155,4 @@ For deeper architectural insight, partnership inquiries, or formal collaboration
 ## Closing Note
 
 OOI is a long‑arc infrastructure project: an architecture for preserving coherence, strengthening human judgment, and stabilizing complex systems across domains. This document is published openly to support stewardship, transparency, and responsible engagement with the architecture.
+
